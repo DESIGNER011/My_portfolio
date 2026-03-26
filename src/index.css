@@ -1,0 +1,11 @@
+@import "tailwindcss";
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background:rgb(24, 3, 26);
+  color: rgb(247, 231, 247);
+  font-family: 'outfit';
+}

@@ -1,0 +1,19 @@
+.light {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 8px 12px;
+    cursor: pointer;
+    z-index: 1000;
+    border-radius: 6px;
+  }
