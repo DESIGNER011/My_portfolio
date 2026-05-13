@@ -13,7 +13,7 @@ const Hero = () => {
         <div className='hero-action'>
             <div className='hero-connect'><a className='anchor-link' offset={50} href='#contact'>Connect with me</a></div>
             {/* <div className='hero-resume'>My resume</div> */}
-            <a href="/updated_resume.pdf" download className='hero-resume'>
+            <a href="/Amudhapriya_resume.pdf" download className='hero-resume'>
   My Resume
 </a>
         </div>
